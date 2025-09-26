@@ -235,11 +235,15 @@ Kockadobással döntsetek kezdőjátékost!
 | Lila | Nincs adósság a játék végén | Hitelsáv 4-es mezője, rajta egy piros X-szel. | A játék végén nem kell levonnod az adósságodat a pontjaidból | – | 2 borostyán |
 | Lila | Dirhem az aktuális hitelképességért | A hitelsáv mezői, amelyen nincs szürke korong, rajta piros körrel, nyíllal egy pénzikonnal | A  játék végén annyi dirhemet kapsz, amennyi az aktuális hitelképességed (a szabad mezők száma a hitelsávodon) | – | 1 ezüst, 1 borostyán |
 | Lila | Megmaradt dirhem kettőt ér | A pénzsáv, arany korong a 4-es mezőn, alatta 1 pénzikon = 2 pénzikon | A játék végén minden megmaradt dirhemed kettőt ér | – | 1 smaragd, 1 borostyán |
-| Lila | Nagy megbízásonként 2 dirhem | 2 pénzikon "/" jel, megbízáskártya  | A játék végén minden teljesített nagy megbízásodért 2 dirhemet kapsz | – |  borostyán | 1 ezüst, 1 borostyán |
-| Lila | Kis megbízásonként 2 dirhem | 2 pénzikon "/" jel, piros szegélyű megbízáskártya  | A játék végén minden teljesített kis megbízásodért 2 dirhemet kapsz | – |  borostyán | 1 smaragd, 1 borostyán |
+| Lila | Nagy megbízásonként 2 dirhem | 2 pénzikon "/" jel, megbízáskártya  | A játék végén minden teljesített nagy megbízásodért 2 dirhemet kapsz | – |  1 ezüst, 1 borostyán |
+| Lila | Kis megbízásonként 2 dirhem | 2 pénzikon "/" jel, piros szegélyű megbízáskártya  | A játék végén minden teljesített kis megbízásodért 2 dirhemet kapsz | – | 1 smaragd, 1 borostyán |
 | Lila | Ahány áru, annyi dirhem (két típus) | 1 pénzikon, "/" jel, 2 megbízáskártya az 1-iken ezüst jelölő | A játék végén 1 dirhemet ér a kártyán látható ikon (ezüst vagy smaragd) minden előfordulása a teljesített kis és nagy megbízáskártyáidon. | 2 típus, egyszerre csak egy lehet nálad! | 3 borostyán |
 | Lila | Ahány áru, annyiszor 2 dirhem (két típus) | 2 pénzikon, "/" jel, 2 megbízáskártya az 1-iken arany jelölő | A játék végén 2 dirhemet ér a kártyán látható ikon (arany vagy gyémánt) minden előfordulása a teljesített kis és nagy megbízáskártyáidon. | 2 típus, egyszerre csak egy lehet nálad! | 1 ezüst, 1 smaragd |
-
+| Lila | Ahány áru, annyi pénz | 2 kupac: 1 bronz/ezüst/arany, "/" jel, 1 smaragd/borostyán/gyémánt | A játék végén minden áru, ami a személyes tábládon maradt, 2 dirhem áron elszámolható az eredményjelző táblán. | - | 1 smaragd, 1 bronz |
+| Lila | Ahány hitelkorong, annyi pénz | 1 aranyikon, "/" jel, szürke hitelkorong jelző piros X-szel áthúzva. | A játék végén minden, a személyes tábládról lekerült hitelkorong 1 dirhemet ér. | - | 2 borostyán |
+| Lila | Ahányat dobsz, annyi pénz | 1 dobókocka, nyíllal mutat 1 aranyikonra. | A játék végén minden dobj a kockával, amennyit dobsz, annyi dirhemet kapsz. | - | 1 bronz, 1 borostyán |
+| Lila | Húzz egy kis megbízást, megkapod az értéket dirhemben | 1 kézfej, amelyik húz egy lapot a pakliból, mellette egy piros szegélyű kártya. Alatta: aranyikon "/" jel, 2 | A játék végén húzz egy kis megbízást. A kapott érték felét megkapod dirhemben (felfelé kerekítve) | - | 1 smaragd, 1 bronz |
+| Lila | Öt dirhem! | 5 és egy aranyikon | A játék végén 5 dirhem üti a markod.| - | 3 borostyán |
 
 > **Fontos:** A türkiz kártyák játék közben, a lila kártyák a játék végén fejtik ki a hatásukat!
 > **Megjegyzés:** Ha egy játékos nagy megbízás teljesítésekor a megadott kártyát választja, a kártya árát a többi játékos megkapja a közös készletből. Ha a közös készletből elfogy, akkor a standokról osszátok ki az árukat. Ha ott is elfogyna, akkor a készlet erejéig kapják meg a játékosok az árukat. 
