@@ -232,7 +232,6 @@ Kockadobással döntsetek kezdőjátékost!
 | Türkiz | Állandó +2 jutalom | Megbízáskártya, zöld felfelé mutató nyíl a Torony ikon felé | Nagy megbízásnál mindig a megbízás értéke +2 jutalmat kapod | – | 1 smaragd, 1 borostyán |
 | Egyszer használható | Pénzfeltöltés | Sarokban: 1 bronz / 1 borostyán; középen: pénzsáv (4-5-6), piros nyilak, korongok; felirat: "+6 és pénzikon" | Leveszed az összes limitkorongot a pénzsávról, majd 6-ig feltöltöd pénzedet | Egyszer használható | 1 bronz, 1 borostyán |
 | Egyszer használható | Hitel törlés | Sarokban: 1 bronz / 1 borostyán; középen: hitelsáv (4-5-6), piros nyilak | Leveszed az összes limitkorongot a hitelsávról.| Egyszer használható | 1 bronz, 1 borostyán |
-
 | Lila | Nincs adósság a játék végén | Hitelsáv 4-es mezője, rajta egy piros X-szel. | A játék végén nem kell levonnod az adósságodat a pontjaidból | – | 2 borostyán |
 | Lila | Dirhem az aktuális hitelképességért | A hitelsáv mezői, amelyen nincs szürke korong, rajta piros körrel, nyíllal egy pénzikonnal | A  játék végén annyi dirhemet kapsz, amennyi az aktuális hitelképességed (a szabad mezők száma a hitelsávodon) | – | 1 ezüst, 1 borostyán |
 | Lila | Megmaradt dirhem kettőt ér | A pénzsáv, arany korong a 4-es mezőn, alatta 1 pénzikon = 2 pénzikon | A játék végén minden megmaradt dirhemed kettőt ér | – | 1 smaragd, 1 borostyán |
